@@ -1,0 +1,63 @@
+- group:  都是我的好朋友 # 分组标题
+  description:  # 分组描述
+  items:
+    - title: 和和日志
+      url: https://yhehe.com/
+      avatar: https://photo.yhehe.com/tp/wk.webp
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 记录生活，点点滴滴！
+    - title: 杜老师说
+      url: https://dusays.com/
+      avatar: https://cdn.dusays.com/avatar.png
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 师者，传道，授业，解惑！
+    - title: obaby
+      url: https://h4ck.org.cn/
+      avatar: https://h4ck.org.cn/wp-content/uploads/avatars/1/1679798626-bpfull.png
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: Girl&Blog
+    - title: 云心怀鹤
+      url: https://bluehe.cn/
+      avatar: https://bluehe.cn/usr/uploads/2022/09/3376344061.jpg
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 风光摄影者，文艺叙述人
+    - title: 灰常记忆
+      url: https://bestcherish.com/
+      avatar: https://static.bestcherish.com/imgs/2023/10/23a18bfa8cf53842.webp
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 记录生活 珍藏回忆
+    - title: Dabenshi
+      url: https://dabenshi.cn/
+      avatar: https://dabenshi.cn/uploads/logo.png
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 蓝紫色的花朵铺天盖地,恰似宿命中为爱奋不顾身的燕尾蝶
+    - title: 网友小宋
+      url: https://xyzbz.cn/
+      avatar: https://bu.dusays.com/2023/07/25/64bf920527086.png
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 一介草民，只为生活！
+    - title: 梦不见的梦
+      url: https://www.friendcc.com/
+      avatar: https://www.friendcc.com/touxiang.jpg
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 被嘲笑的梦想才有实现的价值
+    - title: 姜先森
+      url: https://jiangjizhong.com/
+      avatar: https://cravatar.cn/avatar/9d6bcfbd7c557c412c982b1a44700f06?s=55&r=G
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 开心就笑，不开心待会笑
+    - title: Niuren.VIP
+      url: https://niuren.vip/
+      avatar: https://vip.123pan.cn/1825601452/%E7%9B%B4%E8%BF%9E%E7%A9%BA%E9%97%B4/20240607154007.jpg
+      screenshot: # 截图
+      keywords: # 杜老师说
+      description: 对牛弹琴,弹,弹,弹！

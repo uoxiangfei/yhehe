@@ -1,0 +1,29 @@
+community_team:
+  title:
+  description:
+  items:
+    - title: xaoxuu
+      url: https://xaoxuu.com
+      screenshot: https://fastly.jsdelivr.net/npm/mhgoos@0.0.1655516660514/VuSwWZ1xAeUHEBC.jpg
+      avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+      description: 开发者
+    - title: MHuiG
+      url: https://blog.mhuig.top
+      screenshot: https://fastly.jsdelivr.net/npm/mhgoos@0.0.1655516784786/d24zpPlhLYWX6D1.png
+      avatar: https://cdn.jsdelivr.net/npm/mhg@latest
+      description: 划水
+
+test_demo:
+  title:
+  description:
+  items:
+    - title: xixi.org
+      url: https://volantis-x.js.org/
+      screenshot: https://fastly.jsdelivr.net/npm/mhgoos@0.0.1655516891879/YQ2nhcvyCuFsm3g.png
+      avatar: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
+      description: Test Site For Development
+
+examples:
+  title:
+  description:
+  api: https://api.vlts.cc/output_data/v2/volantis-x/examples
