@@ -17,9 +17,9 @@ title: 闲言碎语...🛵
 </section>
 <script type="text/javascript">
     var memos = {
-        host: 'https://ss.yhehe.com/',
+        host: 'https://s.dusays.com/',
         limit: '10',
-        creatorId: '1',
+        creatorId: '98',
         domId: '#memos',
         username: 'hehe',
         name: 'hehe',
